@@ -1,0 +1,63 @@
+{
+  "offset": 0,
+  "count": 4,
+  "total": 4,
+  "results": [
+    {
+      "id": "3f3d7425-b1df-473b-9425-4cddba412f3e",
+      "version": 1,
+      "name": {
+        "en": "Snowboard equipment"
+      },
+      "slug": {
+        "en": "snowboard-equipment"
+      },
+      "ancestors": [],
+      "orderHint": "0.000014177147971131940620535",
+      "createdAt": "2014-12-04T17:39:57.113Z",
+      "lastModifiedAt": "2014-12-04T17:39:57.113Z"
+    },
+    {
+      "id": "0ff5fd1d-f7c9-4ba3-a3dc-d74c417526c6",
+      "version": 1,
+      "name": {
+        "en": "Tank tops"
+      },
+      "slug": {
+        "en": "tank-tops"
+      },
+      "ancestors": [],
+      "orderHint": "0.00001417714797127707965400",
+      "createdAt": "2014-12-04T17:39:57.127Z",
+      "lastModifiedAt": "2014-12-04T17:39:57.127Z"
+    },
+    {
+      "id": "eab84062-f4d7-4dd6-a576-ce5c10923e68",
+      "version": 1,
+      "name": {
+        "en": "Long sleeves"
+      },
+      "slug": {
+        "en": "long-sleeves"
+      },
+      "ancestors": [],
+      "orderHint": "0.000014177147971341366712606",
+      "createdAt": "2014-12-04T17:39:57.134Z",
+      "lastModifiedAt": "2014-12-04T17:39:57.134Z"
+    },
+    {
+      "id": "951232d5-8ba7-4791-9bdb-0da6b48a2c48",
+      "version": 1,
+      "name": {
+        "en": "Hats"
+      },
+      "slug": {
+        "en": "hats"
+      },
+      "ancestors": [],
+      "orderHint": "0.00001417714797141457059569",
+      "createdAt": "2014-12-04T17:39:57.141Z",
+      "lastModifiedAt": "2014-12-04T17:39:57.141Z"
+    }
+  ]
+}
